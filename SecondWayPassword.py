@@ -39,4 +39,4 @@ to be """ + pswd1 + '"')
     else :
         print("wrong password")
 else:
-    print("it's not 1 or 2")
+    print("we didn't receive a right respond ... bye")
